@@ -1,0 +1,13 @@
+
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: calc(105vh - 100px);
+}
+
+.form{
+    width: 500px !important;
+    height: 300px;
+}
